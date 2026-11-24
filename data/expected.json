@@ -1,0 +1,30 @@
+{
+  "rows": 2400,
+  "status": {
+    "PAID": 2026,
+    "CANCELLED": 248,
+    "REFUNDED": 126
+  },
+  "paid_by_region": {
+    "Busan": 28075000,
+    "Daegu": 29690000,
+    "Daejeon": 25860000,
+    "Incheon": 29155000,
+    "Seoul": 29655000
+  },
+  "paid_by_category": {
+    "Books": 32625000,
+    "Clothing": 36520000,
+    "Electronics": 35755000,
+    "Food": 37535000
+  },
+  "wordcount": {
+    "data": 3,
+    "engineering": 1,
+    "hadoop": 2,
+    "python": 2,
+    "spark": 4,
+    "sql": 2
+  },
+  "partition_sum": 50005000
+}
